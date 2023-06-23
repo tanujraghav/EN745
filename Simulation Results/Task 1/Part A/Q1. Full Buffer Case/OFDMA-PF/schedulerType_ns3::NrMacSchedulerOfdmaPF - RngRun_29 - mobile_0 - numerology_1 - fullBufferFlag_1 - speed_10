@@ -1,0 +1,44 @@
+Scheduling Algo: ns3::NrMacSchedulerOfdmaPF
+  Speed: 10
+  RngRun: 29
+  Numerology: 1
+  CentralFrequency 6000000000.000000
+  FullBuffer: 1
+  Mobile: 0
+  SimTime 5.000000
+
+
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Throughput: 13.267930 Mbps
+  Loss Rate: 58.279520 %
+  Delay: 1463.662181 ms
+
+Flow 2 (1.0.0.2:49154 -> 7.0.0.3:1234) proto UDP
+  Throughput: 0.872794 Mbps
+  Loss Rate: 97.255535 %
+  Delay: 2442.440305 ms
+
+Flow 3 (1.0.0.2:49155 -> 7.0.0.4:1234) proto UDP
+  Throughput: 0.775002 Mbps
+  Loss Rate: 97.563038 %
+  Delay: 1755.951196 ms
+
+Flow 4 (1.0.0.2:49156 -> 7.0.0.5:1234) proto UDP
+  Throughput: 0.559859 Mbps
+  Loss Rate: 98.239545 %
+  Delay: 2505.783304 ms
+
+Flow 5 (1.0.0.2:49157 -> 7.0.0.6:1234) proto UDP
+  Throughput: 22.504384 Mbps
+  Loss Rate: 29.235855 %
+  Delay: 738.227457 ms
+
+Flow 6 (1.0.0.2:49158 -> 7.0.0.7:1234) proto UDP
+  Throughput: 22.504384 Mbps
+  Loss Rate: 29.235855 %
+  Delay: 738.210591 ms
+
+
+Mean Flow Throughput: 10.080725 Mbps
+Mean Packet Loss Rate: 68.301558 %
+Mean Flow Delay: 1607.379172 ms
